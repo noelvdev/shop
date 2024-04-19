@@ -2,6 +2,6 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-  <div className="underline"></div>
+  <div className="underline">Hello world</div>
   );
 }
